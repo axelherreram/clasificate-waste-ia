@@ -23,17 +23,23 @@ El modelo se entrena con un conjunto de datos preprocesado y se guarda para su u
 ## Instalación
 
 Sigue estos pasos para configurar el proyecto en tu máquina local:
+1. **Versión de Python recomendada**:
 
-1. **Clona el repositorio**:
+   Asegúrate de tener Python 3.12.8. 
+   Puedes verificar tu versión de Python con el siguiente comando:
+   ```bash
+   python --version
+
+3. **Clona el repositorio**:
    ```bash
    git clone https://github.com/axelherreram/clasificate-waste-ia.git
    cd clasificacion-residuos
    ```
-2. **Crea y activa un entorno virtual**:
+4. **Crea y activa un entorno virtual**:
    ```bash
    python -m venv waste_clasificate
    ```
-3. **Instala las dependencias**:
+5. **Instala las dependencias**:
    ```bash
    pip install -r requirements.txt
    ```
