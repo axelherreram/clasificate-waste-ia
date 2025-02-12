@@ -1,0 +1,5 @@
+/waste_clasificate
+/model
+/YOLO/yolov3.weights
+/YOLO/yolov3.cfg
+/YOLO/coco.names
